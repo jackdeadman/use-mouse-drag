@@ -1,6 +1,6 @@
 {
   "name": "use-mouse-drag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react hook for creating interaction by dragging the mouse e.g., moving elements and drawing boxes",
   "author": "jackdeadman",
   "license": "MIT",
