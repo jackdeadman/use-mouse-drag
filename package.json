@@ -3,6 +3,13 @@
   "version": "1.0.1",
   "description": "A react hook for creating interaction by dragging the mouse e.g., moving elements and drawing boxes",
   "author": "jackdeadman",
+  "keywords": [
+    "react",
+    "reactjs",
+    "react-hooks",
+    "mouse",
+    "dragging"
+  ],
   "license": "MIT",
   "repository": "jackdeadman/use-mouse-drag",
   "main": "dist/index.js",
