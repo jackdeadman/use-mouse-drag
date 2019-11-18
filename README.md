@@ -1,5 +1,7 @@
 # use-mouse-drag
-[Try it out](https://jackdeadman.github.io/use-mouse-drag/)
+Examples
+- [Demo](https://jackdeadman.github.io/use-mouse-drag/)
+- [Sandbox](https://codesandbox.io/s/testing-react-hooks-st63d?fontsize=14)
 
 > A react hook for creating interaction by dragging the mouse e.g., moving elements and drawing boxes
 
